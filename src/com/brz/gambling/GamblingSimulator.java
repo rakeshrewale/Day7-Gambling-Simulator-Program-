@@ -1,4 +1,4 @@
-package com.bridgelabz.gambling;
+package com.brz.gambling;
 
 import java.util.Random;
 
